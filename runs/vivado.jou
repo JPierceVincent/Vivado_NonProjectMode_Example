@@ -2,21 +2,13 @@
 # Vivado v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Sat Aug 28 14:12:34 2021
-# Process ID: 171515
-# Current directory: /home/joseph/Documents/_TEST/helllooo_nonProjectMode/runs
+# Start of session at: Sat Aug 28 15:31:51 2021
+# Process ID: 181660
+# Current directory: /home/joseph/Documents/_TEST/helllooo_nonProjectMode/Vivado_NonProjectMode_Example/runs
 # Command line: vivado -mode tcl
-# Log file: /home/joseph/Documents/_TEST/helllooo_nonProjectMode/runs/vivado.log
-# Journal file: /home/joseph/Documents/_TEST/helllooo_nonProjectMode/runs/vivado.jou
+# Log file: /home/joseph/Documents/_TEST/helllooo_nonProjectMode/Vivado_NonProjectMode_Example/runs/vivado.log
+# Journal file: /home/joseph/Documents/_TEST/helllooo_nonProjectMode/Vivado_NonProjectMode_Example/runs/vivado.jou
 #-----------------------------------------------------------
 source build.tcl 
-source build.tcl
-source build.tcl
-ls
-source build.tcl
-source build.tcl
-source build.tcl
-clear
-source build.tcl
 source build.tcl
 source build.tcl

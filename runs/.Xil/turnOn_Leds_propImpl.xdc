@@ -1,4 +1,4 @@
-set_property SRC_FILE_INFO {cfile:/home/joseph/Documents/_TEST/helllooo_nonProjectMode/rtl/const.xdc rfile:../../rtl/const.xdc id:1} [current_design]
+set_property SRC_FILE_INFO {cfile:/home/joseph/Documents/_TEST/helllooo_nonProjectMode/Vivado_NonProjectMode_Example/rtl/const.xdc rfile:../../rtl/const.xdc id:1} [current_design]
 set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
 set_property PACKAGE_PIN AG14     [get_ports {LEDS_OUT[0]}] ;# Bank  44 VCCO - VCC3V3   - IO_L10P_AD2P_44
 set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
